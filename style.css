@@ -258,7 +258,7 @@ footer {
     border: .1rem solid var(--secondary-color);
     border-radius: 50%;
     font-size: 1rem;
-    color: var(--secondary-color);
+    /* color: var(--secondary-color); */
     margin: 0rem 1rem 0rem 0rem;
   }
   a#random {
