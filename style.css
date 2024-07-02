@@ -198,8 +198,9 @@ footer {
 
 .footerr-text{
   display: flex;
-  justify-content: end;
-font-size: 1rem;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
 }
 .social-media{
   display: flex;
@@ -253,7 +254,7 @@ font-size: 1rem;
     align-items: center; */
     width: 2rem;
     height: 1.5rem;
-    background: transparent;
+    /* background: transparent; */
     border: .1rem solid var(--secondary-color);
     border-radius: 50%;
     font-size: 1rem;
